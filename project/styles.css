@@ -46,6 +46,14 @@ label {
   border-bottom: 1px solid rgb(255 255 255 / 8%);
 }
 
+.sidebar h1 {
+  color: whitesmoke;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+  font-family: "Euclid Circular A";
+}
+
 .sidebar header img {
   height: 44px;
 }
